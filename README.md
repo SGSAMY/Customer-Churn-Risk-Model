@@ -1,18 +1,19 @@
-Customer Churn Risk Model
-Overview
+## Customer Churn Risk Model
+
+## Overview
 
 This project demonstrates a Python-based customer churn risk model developed for financial services products including:
 
-CTF
-JISA
-ISA
-LISA
+* CTF
+* JISA
+* ISA
+* LISA
 
 The model uses behavioural analytics and customer engagement indicators to identify customers at risk of disengagement, inactivity, or attrition.
 
 The solution helps organisations proactively target at-risk customers through retention campaigns and personalised engagement strategies.
 
-Business Problem
+## Business Problem
 
 Financial services organisations need to identify customers who may:
 
@@ -25,7 +26,8 @@ potentially leave
 
 This project analyses customer behavioural and engagement data to calculate churn risk scores and classify customers into risk categories.
 
-Technologies Used
+## Technologies Used
+
 Python
 pandas
 matplotlib
@@ -78,7 +80,9 @@ Customer engagement monitoring
 Risk-based customer prioritisation
 Direct Debit risk analysis
 Financial services customer analytics
-Project Structure
+
+## Project Structure
+
 Customer-Churn-Risk-Model/
 │
 ├── data/
@@ -87,12 +91,6 @@ Customer-Churn-Risk-Model/
 ├── scripts/
 ├── screenshots/
 └── README.md
-Future Improvements
-Machine learning churn prediction
-Power BI dashboard integration
-Azure data pipeline integration
-Real-time customer risk monitoring
-Predictive retention analytics
-Author
 
+## Author
 Satheesh Gurusamy
