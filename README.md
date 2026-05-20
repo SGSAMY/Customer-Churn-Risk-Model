@@ -28,12 +28,11 @@ This project analyses customer behavioural and engagement data to calculate chur
 
 ## Technologies Used
 
-Python
-pandas
-matplotlib
-Excel
-Jupyter Notebook
-Dataset Features
+* Python
+* pandas
+* matplotlib
+* Excel
+* Jupyter Notebook
 
 The model uses the following data points:
 
