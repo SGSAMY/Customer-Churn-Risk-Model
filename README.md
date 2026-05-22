@@ -13,6 +13,8 @@ The model uses behavioural analytics and customer engagement indicators to ident
 
 The solution helps organisations proactively target at-risk customers through retention campaigns and personalised engagement strategies.
 
+---
+
 ## Business Problem
 
 Financial services organisations need to identify customers who may:
@@ -25,6 +27,8 @@ Financial services organisations need to identify customers who may:
 * potentially leave
 
 This project analyses customer behavioural and engagement data to calculate churn risk scores and classify customers into risk categories.
+
+---
 
 ## Technologies Used
 
@@ -66,6 +70,8 @@ The final churn score is categorised into:
 * High Risk
 * Medium Risk
 * Low Risk
+
+  ---
   
 ## Key Features
 
@@ -81,6 +87,8 @@ The final churn score is categorised into:
 * Direct Debit risk analysis
 * Financial services customer analytics
 
+---
+
 ## Project Structure
 
 Customer-Churn-Risk-Model/
@@ -91,6 +99,8 @@ Customer-Churn-Risk-Model/
 ├── scripts/
 ├── screenshots/
 └── README.md
+
+---
 
 ## Author
 Satheesh Gurusamy
