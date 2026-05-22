@@ -69,7 +69,7 @@ The final churn score is categorised into:
   
 ## Key Features
 
-*Customer churn risk scoring
+* Customer churn risk scoring
 * Behavioural analytics
 * Retention risk classification
 * Customer engagement analysis
