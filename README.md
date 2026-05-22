@@ -75,7 +75,6 @@ The final churn score is categorised into:
 * Customer engagement analysis
 * Automated Excel output generation
 * Visualisation and reporting
-* Example Use Cases
 * Retention campaigns
 * Customer engagement monitoring
 * Risk-based customer prioritisation
