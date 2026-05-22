@@ -17,12 +17,12 @@ The solution helps organisations proactively target at-risk customers through re
 
 Financial services organisations need to identify customers who may:
 
-stop contributing
-disengage digitally
-ignore campaigns
-cancel Direct Debits
-reduce product activity
-potentially leave
+* stop contributing
+* disengage digitally
+* ignore campaigns
+* cancel Direct Debits
+* reduce product activity
+* potentially leave
 
 This project analyses customer behavioural and engagement data to calculate churn risk scores and classify customers into risk categories.
 
