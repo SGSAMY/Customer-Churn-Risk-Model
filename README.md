@@ -121,5 +121,13 @@ Customer-Churn-Risk-Model/
 - Monitor customers with high support ticket volumes
 - Introduce loyalty incentives for long-term customers
 
+---
+
+## Business Value
+
+This project demonstrates how behavioural analytics and customer engagement data can be transformed into actionable customer retention intelligence.
+
+The churn scoring approach helps marketing and CRM teams proactively identify at-risk customers, improve retention strategies, and support data-driven customer engagement initiatives.
+
 ## Author
 Satheesh Gurusamy
