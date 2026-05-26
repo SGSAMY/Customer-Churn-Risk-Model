@@ -38,6 +38,8 @@ This project analyses customer behavioural and engagement data to calculate chur
 * Excel
 * Jupyter Notebook
 
+## Input Features
+
 The model uses the following data points:
 
 * Fresco customer segmentation
