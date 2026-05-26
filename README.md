@@ -110,6 +110,7 @@ Customer-Churn-Risk-Model/
 ├── notebooks/
 ├── output/
 ├── scripts/
+├── requirements.txt
 └── README.md
 ```
 ---
