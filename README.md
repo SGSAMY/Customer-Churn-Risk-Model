@@ -103,6 +103,7 @@ The final churn score is categorised into:
 
 ## Project Structure
 
+```text
 Customer-Churn-Risk-Model/
 │
 ├── data/
@@ -110,7 +111,7 @@ Customer-Churn-Risk-Model/
 ├── output/
 ├── scripts/
 └── README.md
-
+```
 ---
 
 ## Business Recommendations
