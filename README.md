@@ -102,5 +102,12 @@ Customer-Churn-Risk-Model/
 
 ---
 
+## Business Recommendations
+
+- Target high-risk customers with personalised retention campaigns
+- Improve engagement for customers with declining activity
+- Monitor customers with high support ticket volumes
+- Introduce loyalty incentives for long-term customers
+
 ## Author
 Satheesh Gurusamy
