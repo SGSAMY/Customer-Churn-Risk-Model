@@ -89,6 +89,16 @@ The final churn score is categorised into:
 
 ---
 
+## Model Outputs
+
+- Customer churn risk score
+- Churn risk category: High, Medium, Low
+- Retention priority flag
+- Recommended customer action
+- Excel output file for business users
+
+
+
 ## Project Structure
 
 Customer-Churn-Risk-Model/
@@ -97,7 +107,6 @@ Customer-Churn-Risk-Model/
 ├── notebooks/
 ├── output/
 ├── scripts/
-├── screenshots/
 └── README.md
 
 ---
